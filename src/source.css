@@ -1654,3 +1654,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
    border: 2px solid var(--background-secondary);
    background-color: var(--background-secondary);
 }
+
+.theme-dark .peopleList-3c4jOR {
+   background-color: var(--background-primary);
+}
