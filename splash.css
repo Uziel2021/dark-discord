@@ -1,5 +1,5 @@
 #splash {
-    background: #0c0c0c;
+    background: #000000;
 }
 
 .progress .progress-bar {
@@ -9,10 +9,10 @@
     background-color: white;
 }
 #splash .splash-inner-dl .dl-select-frame .Select-control {
-    background: #141414;
-    border-color: #191919;
+    background: #000000;
+    border-color: #000000;
 }
 #splash .splash-inner-dl .dl-select-frame .Select-menu-outer {
-    background: #141414;
-    border-color: #191919;
+    background: #000000;
+    border-color: #000000;
 }

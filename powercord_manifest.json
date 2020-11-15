@@ -1,9 +1,9 @@
 {
    "name": "Dark Discord",
-   "description": "An actual dark mode for discord.",
-   "version": "1.0.0",
-   "author": "hellbound#9999",
+   "description": "An actual dark mode for discord. (originally by hellbound)",
+   "version": "1.1.0",
+   "author": "gryffyn#6895",
    "theme": "DarkDiscord.theme.css",
    "splashTheme": "splash.css",
-   "license": "Unlicensed"
+   "license": "MIT-GFN"
 }
