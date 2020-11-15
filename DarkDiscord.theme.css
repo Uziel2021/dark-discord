@@ -15,13 +15,13 @@
 .theme-light,
 :root {
    --background-primary: #000000 !important;
-   --background-secondary: #111111 !important;
-   --background-secondary-alt: #292929 !important;
-   --background-tertiary: #0c0c0c !important;
-   --background-accent: #242424 !important;
+   --background-secondary: #000000 !important;
+   --background-secondary-alt: #000000 !important;
+   --background-tertiary: #000000 !important;
+   --background-accent: #000000 !important;
    --background-floating: black !important;
-   --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
-   --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
+   --background-modifier-hover: rgba(255, 255, 255, 0.06) !important;
+   --background-modifier-active: rgba(255, 255, 255, 0.09) !important;
    --background-modifier-selected: rgba(255, 255, 255, 0.04) !important;
    --background-modifier-accent: hsla(0, 0%, 100%, 0.06) !important;
    --channeltextarea-background: var(--background-accent) !important;
